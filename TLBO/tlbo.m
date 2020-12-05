@@ -27,7 +27,7 @@ nVar = 10;          % Number of Unknown Variables
 VarSize = [1 nVar]; % Unknown Variables Matrix Size
 
 VarMin = -10;       % Unknown Variables Lower Bound
-VarMax =  10;       % Unknown Variables Upper Bound
+VarMax = 10;       % Unknown Variables Upper Bound
 
 %% TLBO Parameters
 
