@@ -1,7 +1,7 @@
 # Teaching-Learning-based Optimization (TLBO) in MATLAB
 
-<p align = "center">
-    <img src = "https://yarpiz.com/wp-content/uploads/2015/09/ypea111-teaching-learning-based-optimization.jpg" alt = "Teaching-Learning-based Optimization (TLBO) in MATLAB">
+<p align="center">
+    <img src="https://yarpiz.com/wp-content/uploads/2015/09/ypea111-teaching-learning-based-optimization.jpg" alt="Teaching-Learning-based Optimization (TLBO) in MATLAB">
 </p>
 
 This is an implementation of Teaching-Learning-based Optimization (TLBO) in MATLAB.
